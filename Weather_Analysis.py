@@ -2,10 +2,10 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 
-# Step 1: Load the CSV file
+#Load the CSV file
 weather_data = pd.read_csv('weather_station_data.csv')
 
-#Step 2: Clean and process the data
+#Clean and process the data
 current_year = pd.Timestamp.now().year
 weather_data['Cleaned Date'] = weather_data['Date'].str.replace(r'^\w+, ', '', regex=True) + f" {current_year}"
 weather_data['Datetime'] = pd.to_datetime(weather_data['Cleaned Date'] + ' ' + weather_data['Time'], errors='coerce')
