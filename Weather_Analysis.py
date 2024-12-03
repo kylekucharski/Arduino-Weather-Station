@@ -1,5 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+import matplotlib.dates as mdates
 
 #Load the CSV file
 weather_data = pd.read_csv('weather_station_data.csv')
@@ -9,6 +10,7 @@ current_year = pd.Timestamp.now().year
 weather_data['Cleaned Date'] = weather_data['Date'].str.replace(r'^\w+, ', '', regex=True) + f" {current_year}"
 weather_data['Datetime'] = pd.to_datetime(weather_data['Cleaned Date'] + ' ' + weather_data['Time'], errors='coerce')
 
+
 #Drop unnecessary columns
 weather_data_cleaned = weather_data.drop(columns=['Date', 'Time', 'Cleaned Date'])
 weather_data_cleaned = weather_data_cleaned[['Datetime', 'Temperature (F)', 'Humidity (%)']]
@@ -17,8 +19,9 @@ weather_data_cleaned = weather_data_cleaned[['Datetime', 'Temperature (F)', 'Hum
 plt.figure(figsize=(10, 6))
 plt.plot(weather_data_cleaned['Datetime'], weather_data_cleaned['Temperature (F)'], label='Temperature (F)')
 plt.title('Temperature Over Time')
-plt.xlabel('Datetime')
+plt.xlabel('Date & time')
 plt.ylabel('Temperature (F)')
+plt.xticks(rotation=45)
 plt.legend()
 plt.grid()
 plt.show()
@@ -27,8 +30,9 @@ plt.show()
 plt.figure(figsize=(10, 6))
 plt.plot(weather_data_cleaned['Datetime'], weather_data_cleaned['Humidity (%)'], label='Humidity (%)', color='orange')
 plt.title('Humidity Over Time')
-plt.xlabel('Datetime')
+plt.xlabel('Date & time')
 plt.ylabel('Humidity (%)')
+plt.xticks(rotation=45)
 plt.legend()
 plt.grid()
 plt.show()
