@@ -1,0 +1,365 @@
+Date,Time,Temperature (F),Humidity (%)
+"Friday, November 15",5:00 AM,56,92
+"Friday, November 15",6:00 AM,56,85
+"Friday, November 15",7:00 AM,57,82
+"Friday, November 15",8:00 AM,57,78
+"Friday, November 15",9:00 AM,57,78
+"Friday, November 15",10:00 AM,58,78
+"Friday, November 15",11:00 AM,58,78
+"Friday, November 15",12:00 PM,58,73
+"Friday, November 15",1:00 PM,59,70
+"Friday, November 15",2:00 PM,58,67
+"Friday, November 15",3:00 PM,58,68
+"Friday, November 15",4:00 PM,58,69
+"Friday, November 15",5:00 PM,57,69
+"Friday, November 15",6:00 PM,57,71
+"Friday, November 15",7:00 PM,56,72
+"Friday, November 15",8:00 PM,56,73
+"Friday, November 15",9:00 PM,56,75
+"Friday, November 15",10:00 PM,56,76
+"Friday, November 15",11:00 PM,56,95
+"Saturday, November 16",5:00 AM,54,75
+"Saturday, November 16",6:00 AM,54,73
+"Saturday, November 16",7:00 AM,54,72
+"Saturday, November 16",8:00 AM,54,71
+"Saturday, November 16",9:00 AM,54,67
+"Saturday, November 16",10:00 AM,54,64
+"Saturday, November 16",11:00 AM,56,62
+"Saturday, November 16",12:00 PM,57,59
+"Saturday, November 16",1:00 PM,58,58
+"Saturday, November 16",2:00 PM,58,56
+"Saturday, November 16",3:00 PM,58,58
+"Saturday, November 16",4:00 PM,58,58
+"Saturday, November 16",5:00 PM,57,59
+"Saturday, November 16",6:00 PM,56,61
+"Saturday, November 16",7:00 PM,56,62
+"Saturday, November 16",8:00 PM,55,64
+"Saturday, November 16",9:00 PM,54,67
+"Saturday, November 16",10:00 PM,55,68
+"Saturday, November 16",11:00 PM,53,81
+"Sunday, November 17",5:00 AM,48,58
+"Sunday, November 17",6:00 AM,47,53
+"Sunday, November 17",7:00 AM,47,50
+"Sunday, November 17",8:00 AM,51,48
+"Sunday, November 17",9:00 AM,55,42
+"Sunday, November 17",10:00 AM,58,39
+"Sunday, November 17",11:00 AM,61,36
+"Sunday, November 17",12:00 PM,62,37
+"Sunday, November 17",1:00 PM,63,37
+"Sunday, November 17",2:00 PM,63,38
+"Sunday, November 17",3:00 PM,63,44
+"Sunday, November 17",4:00 PM,62,47
+"Sunday, November 17",5:00 PM,61,50
+"Sunday, November 17",6:00 PM,60,57
+"Sunday, November 17",7:00 PM,60,61
+"Sunday, November 17",8:00 PM,59,64
+"Sunday, November 17",9:00 PM,58,64
+"Sunday, November 17",10:00 PM,56,64
+"Sunday, November 17",11:00 PM,55,69
+"Monday, November 18",5:00 AM,53,62
+"Monday, November 18",6:00 AM,54,63
+"Monday, November 18",7:00 AM,54,64
+"Monday, November 18",8:00 AM,55,64
+"Monday, November 18",9:00 AM,56,68
+"Monday, November 18",10:00 AM,57,71
+"Monday, November 18",11:00 AM,60,73
+"Monday, November 18",12:00 PM,61,64
+"Monday, November 18",1:00 PM,62,65
+"Monday, November 18",2:00 PM,63,64
+"Monday, November 18",3:00 PM,62,63
+"Monday, November 18",4:00 PM,62,64
+"Monday, November 18",5:00 PM,61,65
+"Monday, November 18",6:00 PM,60,68
+"Monday, November 18",7:00 PM,60,70
+"Monday, November 18",8:00 PM,60,72
+"Monday, November 18",9:00 PM,59,73
+"Monday, November 18",10:00 PM,58,74
+"Monday, November 18",11:00 PM,58,63
+"Tuesday, November 19",5:00 AM,56,76
+"Tuesday, November 19",6:00 AM,56,76
+"Tuesday, November 19",7:00 AM,56,75
+"Tuesday, November 19",8:00 AM,57,73
+"Tuesday, November 19",9:00 AM,58,67
+"Tuesday, November 19",10:00 AM,59,61
+"Tuesday, November 19",11:00 AM,60,57
+"Tuesday, November 19",12:00 PM,62,55
+"Tuesday, November 19",1:00 PM,63,54
+"Tuesday, November 19",2:00 PM,63,54
+"Tuesday, November 19",3:00 PM,63,55
+"Tuesday, November 19",4:00 PM,63,57
+"Tuesday, November 19",5:00 PM,62,59
+"Tuesday, November 19",6:00 PM,62,63
+"Tuesday, November 19",7:00 PM,61,65
+"Tuesday, November 19",8:00 PM,61,65
+"Tuesday, November 19",9:00 PM,61,64
+"Tuesday, November 19",10:00 PM,60,60
+"Tuesday, November 19",11:00 PM,60,55
+"Wednesday, November 20",5:00 AM,47,49
+"Wednesday, November 20",6:00 AM,47,45
+"Wednesday, November 20",7:00 AM,47,43
+"Wednesday, November 20",8:00 AM,52,41
+"Wednesday, November 20",9:00 AM,58,36
+"Wednesday, November 20",10:00 AM,63,33
+"Wednesday, November 20",11:00 AM,66,31
+"Wednesday, November 20",12:00 PM,68,32
+"Wednesday, November 20",1:00 PM,69,33
+"Wednesday, November 20",2:00 PM,69,34
+"Wednesday, November 20",3:00 PM,69,39
+"Wednesday, November 20",4:00 PM,68,42
+"Wednesday, November 20",5:00 PM,66,45
+"Wednesday, November 20",6:00 PM,64,52
+"Wednesday, November 20",7:00 PM,62,56
+"Wednesday, November 20",8:00 PM,60,59
+"Wednesday, November 20",9:00 PM,58,59
+"Wednesday, November 20",10:00 PM,55,59
+"Wednesday, November 20",11:00 PM,55,46
+"Thursday, November 21",5:00 AM,52,57
+"Thursday, November 21",6:00 AM,52,52
+"Thursday, November 21",7:00 AM,52,49
+"Thursday, November 21",8:00 AM,54,46
+"Thursday, November 21",9:00 AM,57,45
+"Thursday, November 21",10:00 AM,59,44
+"Thursday, November 21",11:00 AM,61,43
+"Thursday, November 21",12:00 PM,62,46
+"Thursday, November 21",1:00 PM,63,48
+"Thursday, November 21",2:00 PM,63,49
+"Thursday, November 21",3:00 PM,62,55
+"Thursday, November 21",4:00 PM,61,58
+"Thursday, November 21",5:00 PM,60,61
+"Thursday, November 21",6:00 PM,58,71
+"Thursday, November 21",7:00 PM,56,76
+"Thursday, November 21",8:00 PM,55,81
+"Thursday, November 21",9:00 PM,54,84
+"Thursday, November 21",10:00 PM,55,85
+"Thursday, November 21",11:00 PM,53,85
+"Friday, November 22",5:00 AM,50,85
+"Friday, November 22",6:00 AM,49,82
+"Friday, November 22",7:00 AM,49,80
+"Friday, November 22",8:00 AM,51,78
+"Friday, November 22",9:00 AM,53,70
+"Friday, November 22",10:00 AM,56,66
+"Friday, November 22",11:00 AM,57,62
+"Friday, November 22",12:00 PM,59,62
+"Friday, November 22",1:00 PM,60,62
+"Friday, November 22",2:00 PM,60,62
+"Friday, November 22",3:00 PM,59,68
+"Friday, November 22",4:00 PM,58,71
+"Friday, November 22",5:00 PM,57,74
+"Friday, November 22",6:00 PM,56,81
+"Friday, November 22",7:00 PM,54,85
+"Friday, November 22",8:00 PM,53,89
+"Friday, November 22",9:00 PM,53,91
+"Friday, November 22",10:00 PM,53,92
+"Friday, November 22",11:00 PM,52,89
+"Saturday, November 23",5:00 AM,50,90
+"Saturday, November 23",6:00 AM,50,87
+"Saturday, November 23",7:00 AM,49,86
+"Saturday, November 23",8:00 AM,51,84
+"Saturday, November 23",9:00 AM,53,76
+"Saturday, November 23",10:00 AM,55,71
+"Saturday, November 23",11:00 AM,57,67
+"Saturday, November 23",12:00 PM,59,63
+"Saturday, November 23",1:00 PM,61,61
+"Saturday, November 23",2:00 PM,61,59
+"Saturday, November 23",3:00 PM,61,65
+"Saturday, November 23",4:00 PM,61,68
+"Saturday, November 23",5:00 PM,60,71
+"Saturday, November 23",6:00 PM,60,75
+"Saturday, November 23",7:00 PM,60,77
+"Saturday, November 23",8:00 PM,60,79
+"Saturday, November 23",9:00 PM,60,79
+"Saturday, November 23",10:00 PM,56,79
+"Saturday, November 23",11:00 PM,58,94
+"Sunday, November 24",5:00 AM,58,95
+"Sunday, November 24",6:00 AM,57,89
+"Sunday, November 24",7:00 AM,57,86
+"Sunday, November 24",8:00 AM,59,83
+"Sunday, November 24",9:00 AM,60,66
+"Sunday, November 24",10:00 AM,62,58
+"Sunday, November 24",11:00 AM,64,49
+"Sunday, November 24",12:00 PM,65,47
+"Sunday, November 24",1:00 PM,66,46
+"Sunday, November 24",2:00 PM,66,46
+"Sunday, November 24",3:00 PM,66,51
+"Sunday, November 24",4:00 PM,65,54
+"Sunday, November 24",5:00 PM,64,57
+"Sunday, November 24",6:00 PM,63,63
+"Sunday, November 24",7:00 PM,62,66
+"Sunday, November 24",8:00 PM,61,69
+"Sunday, November 24",9:00 PM,61,69
+"Sunday, November 24",10:00 PM,60,69
+"Sunday, November 24",11:00 PM,60,93
+"Monday, November 25",5:00 AM,56,71
+"Monday, November 25",6:00 AM,56,64
+"Monday, November 25",7:00 AM,56,61
+"Monday, November 25",8:00 AM,58,58
+"Monday, November 25",9:00 AM,61,50
+"Monday, November 25",10:00 AM,63,46
+"Monday, November 25",11:00 AM,65,41
+"Monday, November 25",12:00 PM,67,43
+"Monday, November 25",1:00 PM,69,43
+"Monday, November 25",2:00 PM,69,44
+"Monday, November 25",3:00 PM,68,47
+"Monday, November 25",4:00 PM,68,48
+"Monday, November 25",5:00 PM,66,50
+"Monday, November 25",6:00 PM,65,56
+"Monday, November 25",7:00 PM,63,58
+"Monday, November 25",8:00 PM,62,61
+"Monday, November 25",9:00 PM,61,65
+"Monday, November 25",10:00 PM,59,67
+"Monday, November 25",11:00 PM,59,82
+"Tuesday, November 26",5:00 AM,55,78
+"Tuesday, November 26",6:00 AM,55,77
+"Tuesday, November 26",7:00 AM,55,77
+"Tuesday, November 26",8:00 AM,57,76
+"Tuesday, November 26",9:00 AM,60,64
+"Tuesday, November 26",10:00 AM,63,58
+"Tuesday, November 26",11:00 AM,65,52
+"Tuesday, November 26",12:00 PM,66,54
+"Tuesday, November 26",1:00 PM,66,55
+"Tuesday, November 26",2:00 PM,66,56
+"Tuesday, November 26",3:00 PM,65,64
+"Tuesday, November 26",4:00 PM,64,68
+"Tuesday, November 26",5:00 PM,63,72
+"Tuesday, November 26",6:00 PM,62,79
+"Tuesday, November 26",7:00 PM,61,83
+"Tuesday, November 26",8:00 PM,60,86
+"Tuesday, November 26",9:00 PM,59,89
+"Tuesday, November 26",10:00 PM,59,90
+"Tuesday, November 26",11:00 PM,58,74
+"Wednesday, November 27",5:00 AM,61,80
+"Wednesday, November 27",6:00 AM,61,83
+"Wednesday, November 27",7:00 AM,60,85
+"Wednesday, November 27",8:00 AM,61,86
+"Wednesday, November 27",9:00 AM,61,86
+"Wednesday, November 27",10:00 AM,62,87
+"Wednesday, November 27",11:00 AM,62,87
+"Wednesday, November 27",12:00 PM,63,86
+"Wednesday, November 27",1:00 PM,63,85
+"Wednesday, November 27",2:00 PM,63,85
+"Wednesday, November 27",3:00 PM,62,86
+"Wednesday, November 27",4:00 PM,62,86
+"Wednesday, November 27",5:00 PM,61,87
+"Wednesday, November 27",6:00 PM,60,89
+"Wednesday, November 27",7:00 PM,60,90
+"Wednesday, November 27",8:00 PM,59,92
+"Wednesday, November 27",9:00 PM,59,90
+"Wednesday, November 27",10:00 PM,60,89
+"Wednesday, November 27",11:00 PM,60,71
+"Thursday, November 28",5:00 AM,50,71
+"Thursday, November 28",6:00 AM,49,68
+"Thursday, November 28",7:00 AM,48,66
+"Thursday, November 28",8:00 AM,52,65
+"Thursday, November 28",9:00 AM,56,49
+"Thursday, November 28",10:00 AM,61,40
+"Thursday, November 28",11:00 AM,65,32
+"Thursday, November 28",12:00 PM,69,30
+"Thursday, November 28",1:00 PM,72,28
+"Thursday, November 28",2:00 PM,72,27
+"Thursday, November 28",3:00 PM,71,30
+"Thursday, November 28",4:00 PM,70,32
+"Thursday, November 28",5:00 PM,67,34
+"Thursday, November 28",6:00 PM,64,37
+"Thursday, November 28",7:00 PM,62,38
+"Thursday, November 28",8:00 PM,60,40
+"Thursday, November 28",9:00 PM,58,36
+"Thursday, November 28",10:00 PM,58,34
+"Thursday, November 28",11:00 PM,56,89
+"Friday, November 29",5:00 AM,55,38
+"Friday, November 29",6:00 AM,55,38
+"Friday, November 29",7:00 AM,54,38
+"Friday, November 29",8:00 AM,57,37
+"Friday, November 29",9:00 AM,60,34
+"Friday, November 29",10:00 AM,63,33
+"Friday, November 29",11:00 AM,65,31
+"Friday, November 29",12:00 PM,66,35
+"Friday, November 29",1:00 PM,66,37
+"Friday, November 29",2:00 PM,66,38
+"Friday, November 29",3:00 PM,67,40
+"Friday, November 29",4:00 PM,67,41
+"Friday, November 29",5:00 PM,65,42
+"Friday, November 29",6:00 PM,64,48
+"Friday, November 29",7:00 PM,63,51
+"Friday, November 29",8:00 PM,61,54
+"Friday, November 29",9:00 PM,60,55
+"Friday, November 29",10:00 PM,58,55
+"Friday, November 29",11:00 PM,57,57
+"Saturday, November 30",5:00 AM,55,49
+"Saturday, November 30",6:00 AM,55,50
+"Saturday, November 30",7:00 AM,55,50
+"Saturday, November 30",8:00 AM,57,51
+"Saturday, November 30",9:00 AM,59,46
+"Saturday, November 30",10:00 AM,62,44
+"Saturday, November 30",11:00 AM,64,42
+"Saturday, November 30",12:00 PM,67,41
+"Saturday, November 30",1:00 PM,68,41
+"Saturday, November 30",2:00 PM,68,40
+"Saturday, November 30",3:00 PM,67,46
+"Saturday, November 30",4:00 PM,66,49
+"Saturday, November 30",5:00 PM,64,52
+"Saturday, November 30",6:00 PM,62,61
+"Saturday, November 30",7:00 PM,61,66
+"Saturday, November 30",8:00 PM,59,70
+"Saturday, November 30",9:00 PM,59,73
+"Saturday, November 30",10:00 PM,59,74
+"Saturday, November 30",11:00 PM,58,59
+"Sunday, December 1",5:00 AM,54,57
+"Sunday, December 1",6:00 AM,53,54
+"Sunday, December 1",7:00 AM,53,53
+"Sunday, December 1",8:00 AM,55,51
+"Sunday, December 1",9:00 AM,57,50
+"Sunday, December 1",10:00 AM,59,49
+"Sunday, December 1",11:00 AM,60,49
+"Sunday, December 1",12:00 PM,62,50
+"Sunday, December 1",1:00 PM,63,51
+"Sunday, December 1",2:00 PM,62,51
+"Sunday, December 1",3:00 PM,62,57
+"Sunday, December 1",4:00 PM,61,60
+"Sunday, December 1",5:00 PM,59,62
+"Sunday, December 1",6:00 PM,58,70
+"Sunday, December 1",7:00 PM,57,74
+"Sunday, December 1",8:00 PM,55,78
+"Sunday, December 1",9:00 PM,54,82
+"Sunday, December 1",10:00 PM,55,84
+"Sunday, December 1",11:00 PM,53,78
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
