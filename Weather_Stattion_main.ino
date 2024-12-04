@@ -20,6 +20,7 @@ void setup() {
   // Configure BME680
   bme.setTemperatureOversampling(BME680_OS_8X);
   bme.setHumidityOversampling(BME680_OS_2X);
+  bme.setPressureOversampling(BME680_OS_4X); 
   bme.setIIRFilterSize(BME680_FILTER_SIZE_3);
 
   // Defined in thingProperties.h
@@ -40,6 +41,7 @@ void loop() {
     // Update cloud variables
     temperature = (bme.temperature * 9 / 5) + 32;  // Convert to Fahrenheit
     humidity = bme.humidity;
+    pressure = bme.pressure /1000;  //Convert to kPa
 
     // Print readings to Serial Monitor
     Serial.println("\n--- Readings ---");
@@ -49,17 +51,24 @@ void loop() {
     Serial.print("Humidity: ");
     Serial.print(humidity);
     Serial.println(" %");
+    Serial.print("Pressure: ");
+    Serial.print(pressure);
+    Serial.println(" kPa");
+  } else {
+    Serial.println("Failed to read from BME680 sensor");
   }
 
   delay(5000);  // Wait 5 seconds between readings
 }
 
 void onTemperatureChange() {
-  // This function will be called when temperature is changed from the cloud dashboard
   Serial.println("Temperature updated from cloud");
 }
 
 void onHumidityChange() {
-  // This function will be called when humidity is changed from the cloud dashboard
   Serial.println("Humidity updated from cloud");
+}
+
+void onPressureChange() {
+  Serial.println("Pressure updated from cloud");
 }
